@@ -46,4 +46,8 @@ The architecture combines:
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/AI-Cybersecurity-Defender.git  
+   git clone https://github.com/your-username/AI-Cybersecurity-Defender.git
+
+### Contact
+1. **Email:** sawantviraj465@gmqil.com / vvs6782222@gmail.com
+2. **LinkedIn:** https://www.linkedin.com/in/virajsawant0112/
